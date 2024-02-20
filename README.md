@@ -7,5 +7,8 @@ Em aula foram abordados os seguintes temas
 - Estrutura do CSS
 - Border Box
 - Display Flex
+- Variáveis CSS
+- Media queries
+- Responsividade
 
 Todos os exercícios feitos para acompanhar as aulas e práticas estão guardados neste repositório
